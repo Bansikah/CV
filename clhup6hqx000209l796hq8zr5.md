@@ -9,3 +9,5 @@ tags: programming-blogs, python, python3, python-beginner
 ---
 
 Have you ever thought of building your own IDE? Yes! You can
+
+[https://link.medium.com/BnZecPUKVzb](https://link.medium.com/BnZecPUKVzb)
