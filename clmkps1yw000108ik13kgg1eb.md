@@ -3,6 +3,8 @@ title: "Basic linux Commands"
 datePublished: Fri Sep 15 2023 14:48:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmkps1yw000108ik13kgg1eb
 slug: basic-linux-commands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694808584421/9980a062-696a-48d5-83cb-e628c8a4c994.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694808650775/e23930b9-bad6-462f-b906-0337e1fdce28.png
 tags: linux, linux-for-beginners, linux-commands
 
 ---
