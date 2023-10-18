@@ -3,6 +3,8 @@ title: "Bash Basics"
 datePublished: Sun Oct 15 2023 02:31:55 GMT+0000 (Coordinated Universal Time)
 cuid: clnqup0lb00030al62j7cdsjw
 slug: bash-basics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697614054300/0b36b115-dd8d-4bd7-92b8-4a559f014251.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697614091814/4207c62c-3e5c-4ba7-9313-ecd3e0cf4da7.png
 tags: bash, shell, linux-for-beginners, bash-shell-script
 
 ---
