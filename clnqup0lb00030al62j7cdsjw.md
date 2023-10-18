@@ -26,7 +26,9 @@ Including the shebang `#!/bin/bash` at the beginning of a Bash script ensures th
 echo "Hello world"
 ```
 
-Variables in Bash are used to store data that can be referenced and manipulated throughout a script. They are created by assigning a value to a name, and the convention is to use uppercase letters. Variables can store numbers, letters, and other characters. To access the value of a variable, you use the syntax `$variable_name`. For example:
+### Variables in bash
+
+**Variables in bash referenced and manipulated throughout a script. They are created by assigning a value to a name, and the convention is to use uppercase letters. Variables can store numbers, letters, and other characters. To access the value of a variable, you use the syntax** `$variable_name`**. For example:**
 
 ```bash
 #!/bin/bash
@@ -204,7 +206,6 @@ You can then call the function by simply using its name followed by parentheses:
 
 ```bash
 sayHello
-
 ```
 
 Functions can also accept parameters, which are variables that hold values passed to the function when it is called. You can define parameters inside the parentheses after the function name:
@@ -213,7 +214,6 @@ Functions can also accept parameters, which are variables that hold values passe
 function greet() {
     echo "Hello, $1! You are $2 years old."
 }
-
 ```
 
 In this example, `$1` and `$2` refer to the first and second parameters passed to the function `greet`.
@@ -222,7 +222,6 @@ When calling a function with parameters, you can provide the values for the para
 
 ```bash
 greet "Noel" 20
-
 ```
 
 This will output: `Hello, Noel! You are 20 years old.`
