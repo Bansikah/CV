@@ -28,7 +28,7 @@ To build a Hello World Flask application image, follow these steps:
 A Dockerfile is a text file that contains instructions for building a Docker image. For a simple Hello World Flask application, the Dockerfile might look like this:
 
 ```bash
-FROM python:3.8-slim-burster
+FROM python:3.12-slim-buster
 
 WORKDIR /usr/src/app
 
